@@ -1,0 +1,22 @@
+{
+  "name": "typesdash",
+  "version": "1.0.0",
+  "description": "A collection of type tools for TypeScript.",
+  "keywords": [
+    "tools",
+    "typescript"
+  ],
+  "main": "src/index.ts",
+  "repository": "git@github.com:Zousdie/typesdash.git",
+  "author": "Jialiang T. <rememhe@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.2.0",
+    "typescript": "^3.9.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
+}
